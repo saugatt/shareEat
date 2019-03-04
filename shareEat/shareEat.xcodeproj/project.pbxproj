@@ -19,6 +19,8 @@
 		A6A9A2E9222DA0F5006508A6 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A9A2E8222DA0F5006508A6 /* Post.swift */; };
 		A6A9A2EB222DA101006508A6 /* Review.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A9A2EA222DA101006508A6 /* Review.swift */; };
 		A6A9A2ED222DA10E006508A6 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A9A2EC222DA10E006508A6 /* User.swift */; };
+		A6A9A2EF222DA154006508A6 /* FoodCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A9A2EE222DA154006508A6 /* FoodCell.swift */; };
+		A6A9A2F1222DA160006508A6 /* ReviewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A9A2F0222DA160006508A6 /* ReviewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +59,8 @@
 		A6A9A2E8222DA0F5006508A6 /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
 		A6A9A2EA222DA101006508A6 /* Review.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Review.swift; sourceTree = "<group>"; };
 		A6A9A2EC222DA10E006508A6 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		A6A9A2EE222DA154006508A6 /* FoodCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodCell.swift; sourceTree = "<group>"; };
+		A6A9A2F0222DA160006508A6 /* ReviewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +144,8 @@
 		A6A9A2DF222D9F53006508A6 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				A6A9A2EE222DA154006508A6 /* FoodCell.swift */,
+				A6A9A2F0222DA160006508A6 /* ReviewCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -296,8 +302,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				A6A9A2E5222DA0CD006508A6 /* LoginViewController.swift in Sources */,
+				A6A9A2EF222DA154006508A6 /* FoodCell.swift in Sources */,
 				A6A9A2B2222D9EBD006508A6 /* AppDelegate.swift in Sources */,
 				A6A9A2E7222DA0E2006508A6 /* SignUpViewController.swift in Sources */,
+				A6A9A2F1222DA160006508A6 /* ReviewCell.swift in Sources */,
 				A6A9A2E3222D9FDA006508A6 /* HomeViewController.swift in Sources */,
 				A6A9A2E9222DA0F5006508A6 /* Post.swift in Sources */,
 				A6A9A2EB222DA101006508A6 /* Review.swift in Sources */,
