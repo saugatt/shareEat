@@ -5,8 +5,8 @@
 
 The following **REQUIRED** functionality is completed:
 
-- [] Login and sign up screens and setup Parse
-- [] HomeViewController to display tableView of list of available food options
+- [x] Login and sign up screens and setup Parse
+- [x] HomeViewController to display tableView of list of available food options
 - [] DetailViewController to show the details of a selected food option
 - [] AddFoodViewController to allow users to add their listing
 - [] MapViewController to let the buyer know how far the seller is
